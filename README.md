@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRColorR :man_student: Computer & electronic engineer | :man_student: AI & Data Science engineer
 - 👀 I’m interested in Computer, Electronics, Software, AI, Cybersecurity, Networking
-- 🌱 I’m currently learning ...  Data Science
+- 🌱 I’m currently learning ...  Azure Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 
