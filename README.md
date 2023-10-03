@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm MRColorR and :man_student: Computer & Robotics Engineer specialized in Data Science </h2>
+<h2 align="left">Hi 👋! I'm MRColorR a :man_student: Computer & Robotics Engineer specialized in Data Science </h2>
 
 ###
 
