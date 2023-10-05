@@ -136,7 +136,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mrcolorr/mrcolorr/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mrcolorr/mrcolorr/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
