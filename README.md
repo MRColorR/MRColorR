@@ -1,10 +1,22 @@
-<h2 align="left">Hi 👋! I'm MRColorR a :man_student: Computer & Robotics Engineer specialized in Data Science </h2>
+<h2 align="left">Hi, I'm Mattia Rengo (MRColorR)</h2>
 
-###
+**DevSecOps Engineer | Kubernetes, GitOps and CI/CD | AI infrastructure and MLOps**
 
-<p align="center">About Me: ​I’m a versatile ad curious IT Engineer. <br>I’m interested in Networking, Cloud, Cybersecurity and AI</p>
+I work in Research and Development at Eustema, part of the Lutech group, and have worked fully remote since April 2023. I build secure cloud platforms and AI infrastructure, combining Kubernetes, GitLab CI, Argo CD and software supply chain security with MLflow operations and LLM serving through KubeAI and vLLM.
 
-###
+I enjoy research and experimentation, with the aim of creating technology that helps people. I identify friction in everyday work and continuously improve solutions to reduce manual steps and support team autonomy. My interests include AI, DevOps, DevSecOps, Cloud, MLOps, cybersecurity and networking. I share knowledge through publications and open source contributions.
+
+MSc in Computer and Robotics Engineering, Data Science curriculum, from the University of Perugia.
+
+Qualifications earned: Microsoft Azure Fundamentals (AZ-900, 2023) and Huawei HCIA-Routing & Switching (2020). English C1; Cambridge First Certificate in English (2013).
+
+[Website and full profile](https://mrcolorr.github.io/) | [LinkedIn](https://www.linkedin.com/in/mattia-rengo/) | [CV in English](https://mrcolorr.github.io/cv/mattia-rengo-europass-en.pdf) | [CV in Italian](https://mrcolorr.github.io/cv/mattia-rengo-europass-it.pdf)
+
+## Selected public work
+
+- **Research:** First author of the [SCARF RAG evaluation technical report](https://arxiv.org/abs/2504.07803) and coauthor of a [Kubernetes cloud bursting paper in IEEE OJCOMS](https://doi.org/10.1109/OJCOMS.2024.3367461).
+- **Open source contributions:** Merged contributions to [Coder](https://github.com/coder/coder/pull/16032), [KubeAI](https://github.com/kubeai-project/kubeai/pull/362) and [CheshireCat](https://github.com/cheshire-cat-ai/core/pull/857) on Helm, networking and containers.
+- **Personal projects:** Docker automation and self-updating Compose stacks, including [money4band](https://github.com/MRColorR/money4band) and [vnc-browser](https://github.com/MRColorR/vnc-browser).
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrcolorr&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph"  />
