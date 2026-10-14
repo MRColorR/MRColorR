@@ -2,19 +2,19 @@
 
 **DevSecOps Engineer | Kubernetes, GitOps and CI/CD | AI infrastructure and MLOps**
 
-I work in Research and Development at Eustema, part of the Lutech group, and have worked fully remote since April 2023. I build secure cloud platforms and AI infrastructure, combining Kubernetes, GitLab CI, Argo CD and software supply chain security with MLflow operations and LLM serving through KubeAI and vLLM.
+Registered Information Engineer in Italy, Section A, having passed the State Examination. DevSecOps Engineer in Eustema's R&D team, part of Lutech, working fully remotely since April 2023. I develop and operate AI platforms for legaltech and the public sector and contribute to healthcare AI research, combining Kubernetes infrastructure, security, backend development and MLOps. My work also includes architecture studies, project documentation and training colleagues. I identify friction and improve solutions to make everyday work simpler and help teams work independently. I share findings through publications, open source contributions and university presentations.
+
+Registered Information Engineer in Italy, Order of Engineers of the Province of Perugia, Section A, no. 4540, since 1 July 2024. State Examination passed at the University of Perugia, second session 2023.
 
 I enjoy research and experimentation, with the aim of creating technology that helps people. I identify friction in everyday work and continuously improve solutions to reduce manual steps and support team autonomy. My interests include AI, DevOps, DevSecOps, Cloud, MLOps, cybersecurity and networking. I share knowledge through publications and open source contributions.
 
 MSc in Computer and Robotics Engineering, Data Science curriculum, from the University of Perugia.
 
-Qualifications earned: Microsoft Azure Fundamentals (AZ-900, 2023) and Huawei HCIA-Routing & Switching (2020). English C1; Cambridge First Certificate in English (2013).
-
 [Website and full profile](https://mrcolorr.github.io/) | [LinkedIn](https://www.linkedin.com/in/mattia-rengo/) | [CV in English](https://mrcolorr.github.io/cv/mattia-rengo-europass-en.pdf) | [CV in Italian](https://mrcolorr.github.io/cv/mattia-rengo-europass-it.pdf)
 
 ## Selected public work
 
-- **Research:** First author of the [SCARF RAG evaluation technical report](https://arxiv.org/abs/2504.07803) and coauthor of a [Kubernetes cloud bursting paper in IEEE OJCOMS](https://doi.org/10.1109/OJCOMS.2024.3367461).
+- **Research:** First author of a [RAG evaluation technical report](https://arxiv.org/abs/2504.07803) and coauthor of a [Kubernetes cloud bursting paper in IEEE OJCOMS](https://doi.org/10.1109/OJCOMS.2024.3367461).
 - **Open source contributions:** Merged contributions to [Coder](https://github.com/coder/coder/pull/16032), [KubeAI](https://github.com/kubeai-project/kubeai/pull/362) and [CheshireCat](https://github.com/cheshire-cat-ai/core/pull/857) on Helm, networking and containers.
 - **Personal projects:** Docker automation and self-updating Compose stacks, including [money4band](https://github.com/MRColorR/money4band) and [vnc-browser](https://github.com/MRColorR/vnc-browser).
 
