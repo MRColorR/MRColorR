@@ -6,7 +6,7 @@ Registered Information Engineer in Italy, Section A, having passed the State Exa
 
 Registered Information Engineer in Italy, Order of Engineers of the Province of Perugia, Section A, no. 4540, since 1 July 2024. State Examination passed at the University of Perugia, second session 2023.
 
-I enjoy research and experimentation, with the aim of creating technology that helps people. I identify friction in everyday work and continuously improve solutions to reduce manual steps and support team autonomy. My interests include AI, DevOps, DevSecOps, Cloud, MLOps, cybersecurity and networking. I share knowledge through publications and open source contributions.
+I enjoy research and experimentation with the aim of creating technology that helps people. My interests include AI, DevOps, DevSecOps, Cloud, MLOps, cybersecurity and networking.
 
 MSc in Computer and Robotics Engineering, Data Science curriculum, from the University of Perugia.
 
