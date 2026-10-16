@@ -1,10 +1,10 @@
 <h2 align="left">Hi, I'm MRColorR</h2>
 
-**DevSecOps Engineer | Cloud, Kubernetes, GitOps and CI/CD | AI infrastructure and MLOps**
+**DevSecOps Engineer | Cloud & Kubernetes | AI infrastructure & MLOps**
 
 Registered Information Engineer in Italy, Section A, having passed the State Examination. I currently work as a DevSecOps Engineer in an R&D team and have worked fully remotely since April 2023. I develop and operate AI platforms for legaltech and the public sector and contribute to healthcare AI research, combining cloud and Kubernetes infrastructure, security, backend development and MLOps. My work also includes architecture studies, project documentation and training colleagues. I identify friction and improve solutions to make everyday work simpler and help teams work independently. I share findings through publications, open source contributions and university presentations.
 
-I enjoy research and experimentation with the aim of creating technology that helps people. My interests include AI, DevOps, DevSecOps, Cloud, MLOps, cybersecurity and networking.
+I enjoy research and experimentation with the aim of creating technology that helps people. My interests include AI, DevSecOps, Cloud, MLOps, cybersecurity and networking.
 
 MSc in Computer and Robotics Engineering, Data Science curriculum, from the University of Perugia.
 
