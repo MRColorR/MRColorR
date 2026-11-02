@@ -16,6 +16,8 @@ MSc in Computer and Robotics Engineering, Data Science curriculum, from the Univ
 - **Open source contributions:** Merged contributions to [Coder](https://github.com/coder/coder/pull/16032), [KubeAI](https://github.com/kubeai-project/kubeai/pull/362) and [CheshireCat](https://github.com/cheshire-cat-ai/core/pull/857) on Helm, networking and containers.
 - **Personal projects:** Docker automation and self-updating Compose stacks, including [money4band](https://github.com/MRColorR/money4band) and [vnc-browser](https://github.com/MRColorR/vnc-browser).
 
+I maintain these personal open-source tools as MrColorRain. You can [support their development on Ko-fi](https://ko-fi.com/mrcolorrain). Support is optional and project decisions remain independent.
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrcolorr&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrcolorr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -160,3 +162,4 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
 --->
+
