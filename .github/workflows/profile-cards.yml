@@ -1,0 +1,53 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "41 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Generate public GitHub statistics
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&hide=contribs&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula&hide_border=false
+          path: profile/stats.svg
+          core_version: "2.2.0"
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      - name: Generate public repository languages
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&locale=en&layout=compact&card_width=320&langs_count=5&disable_animations=true&theme=dracula&hide_border=false
+          path: profile/top-langs.svg
+          core_version: "2.2.0"
+          fail_on_error: "true"
+          token: ${{ github.token }}
+
+      - name: Commit refreshed cards
+        shell: bash
+        run: |
+          git add profile/stats.svg profile/top-langs.svg
+          if git diff --cached --quiet; then
+            echo 'Profile cards are unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'docs: refresh public profile cards'
+          git push
