@@ -8,11 +8,11 @@ Thank you to everyone who helps me build tools, write guides and share experimen
 
 | Network | Wallet address |
 | --- | --- |
-| Bitcoin (BTC) | `1EzBrKjKyXzxydSUNagAP8XLeRzBTxfHcg` |
-| Ethereum (ETH) | `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee` |
-| Solana (SOL) | `6kUAWW8q5169qnUJdxxLsNMPpaKPvbUSmryKDYTb9epn` |
-| Polygon PoS | `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee` |
-| BNB Smart Chain (BNB) | `0xE65c32004b968cd1b4084bC3484C0dA051eeD3ee` |
+| Bitcoin (BTC) | `bc1qfedn48gg4cczsgh8elgka860r3kyg97t223gg2` |
+| Ethereum (ETH) | `0x569fD7dCF04c8a52362cc23C14eCFc01C7D89D16` |
+| Solana (SOL) | `9HVxavPknP6bHm6iDtvZWq3PyxTcbnsPN86y9Zi6xm2W` |
+| Polygon PoS | `0x569fD7dCF04c8a52362cc23C14eCFc01C7D89D16` |
+| BNB Smart Chain (BNB) | `0x569fD7dCF04c8a52362cc23C14eCFc01C7D89D16` |
 
 ## Gold supporters
 
